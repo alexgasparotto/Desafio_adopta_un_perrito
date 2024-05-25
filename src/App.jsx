@@ -2,7 +2,7 @@ import Titulo from './components/Header';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import MyCard from './components/MyCard';
-import Footer from './components/footer';
+import Footer from './components/Footer';
 
 
 function App() {
